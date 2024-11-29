@@ -26,4 +26,4 @@ app.listen(port, () => {
 // node comment.js
 // Open the browser and type http://localhost:3000/
 // Type the comment in the text box and click on the submit button
-// Open the command prompt and check the console
+// Open the command prompt and check the console 
